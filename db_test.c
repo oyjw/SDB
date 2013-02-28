@@ -78,6 +78,6 @@ void test3(){
 }
 
 int main(){
-    test4();
+    test2();
 	return 0;
 }
